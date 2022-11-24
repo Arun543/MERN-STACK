@@ -1,0 +1,9 @@
+.bordered {
+  border: 2px solid rgb(219, 21, 21);
+  margin: 5px;
+}
+button{
+  border-radius: 7px;
+    background-color: green;
+    color: white;
+}
